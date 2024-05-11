@@ -94,7 +94,7 @@ function Results({ selectedOption }) {
                                 :
                                 <React.Fragment>
                                     <img src={`${baseImgURL}${currentMovie.backdrop_path || currentMovie.poster_path}`} alt={currentMovie.name}
-                                        alt='Something Went Wrong'
+                                        
                                         className='results__wentWrong' />
                                 </React.Fragment>
                             }

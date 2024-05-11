@@ -39,7 +39,7 @@ function Header() {
                     <p>Profile</p>
                 </div>
             </div>
-            <img src="https://www.techadvisor.co.uk/cmsdata/features/3779153/hulu_logo_copy_thumb1200_16-9.png" alt="hulu-logo" />
+            <img src="https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg" alt="Trailer-Flix"/>
         </div>
     )
 }
