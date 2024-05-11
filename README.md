@@ -1,6 +1,6 @@
-# Hulu Clone 0.1 😁
+# Trailer-Flix 😁
 
-This is a hulu clone built with react. This app has all the basic features like generas categories, with ability to watch trailers of all the available movies and shows as well as read the description.
+This is a Trailer-flix built with react. This app has all the basic features like generas categories, with ability to watch trailers of all the available movies and shows as well as read the description.
 
 <h2> Home Screen </h2>
 
@@ -26,7 +26,7 @@ mkdir any_name
 ## cloning the project
 
 ```bash
-    git clone https://github.com/mabdullahadeel/hulu-clone.git
+    git clone https://github.com/12srishti12/front.git
 ```
 
 ## Installing dependencies
@@ -41,6 +41,4 @@ mkdir any_name
     npm start | yarn start
 ```
 
-# Demo
-- ✔ [Live Project](https://abd-hulu.web.app//)
-- ✅ https://abd-hulu.web.app/
+
